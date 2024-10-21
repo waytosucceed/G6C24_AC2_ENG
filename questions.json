@@ -1,0 +1,266 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "What was Yan's initial goal when he went back to the trail?",
+        "options": [
+            "To observe nature",
+            "To find deer",
+            "To practice tracking",
+            "To explore new territory"
+        ],
+        "correct": 1,
+        "explanation": "The passage begins with 'Yan was determined to find the deer,' clearly stating his initial goal."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "How did Yan feel when he first saw the deer?",
+        "options": [
+            "Frightened",
+            "Indifferent",
+            "Startled and amazed",
+            "Disappointed"
+        ],
+        "correct": 2,
+        "explanation": "The text states that Yan 'was startled by what he saw' and describes the animals as 'magical,' indicating his amazement."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "What unexpected behaviour did Yan observe in the deer?",
+        "options": [
+            "They were aggressive",
+            "They were sleeping",
+            "They were eating",
+            "They were playing"
+        ],
+        "correct": 3,
+        "explanation": "The passage mentions that the deer 'began to bound up and down in play,' which surprised Yan."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Why does the author compare the deer to 'wingless birds'?",
+        "options": [
+            "Because of their colour",
+            "Because of their size",
+            "Because of their graceful, flying-like movement",
+            "Because they have feathers"
+        ],
+        "correct": 2,
+        "explanation": "The author describes the deer's movement as 'These wingless birds sailed onward,' emphasising their graceful, almost flying-like motion."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "What did Yan forget to do when he saw the deer?",
+        "options": [
+            "Take photos",
+            "Call for help",
+            "Shoot with his rifle",
+            "Run away"
+        ],
+        "correct": 2,
+        "explanation": "The passage explicitly states, 'Yan forgot his rifle,' indicating he was so captivated that he forgot his original intention to hunt."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "In the story, Yan advanced 'haphazardly.' What's another word for 'haphazardly'?",
+        "options": [
+            "Carefully",
+            "Quickly",
+            "Randomly",
+            "Slowly"
+        ],
+        "correct": 2,
+        "explanation": "'Haphazardly' means in a random or disorganised manner, without a plan."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "The deer 'trotted' to a bank. What's a synonym for 'trotted'?",
+        "options": [
+            "Walked",
+            "Ran",
+            "Jumped",
+            "Slept"
+        ],
+        "correct": 0,
+        "explanation": "To 'trot' means to move at a pace faster than a walk but slower than a run, so 'walked' is the closest synonym in this list."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Yan was 'bewildered' by the deer's movement. What's another word for 'bewildered'?",
+        "options": [
+            "Bored",
+            "Confused",
+            "Angry",
+            "Sleepy"
+        ],
+        "correct": 1,
+        "explanation": "'Bewildered' means confused or puzzled, often due to something surprising or unexpected."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "The deer's movements were 'effortless.' What's a synonym for 'effortless'?",
+        "options": [
+            "Difficult",
+            "Tiring",
+            "Easy",
+            "Slow"
+        ],
+        "correct": 2,
+        "explanation": "'Effortless' means requiring little or no effort, so 'easy' is the closest synonym."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Yan was 'stunned' by what he saw. What's another word for 'stunned'?",
+        "options": [
+            "Excited",
+            "Bored",
+            "Amused",
+            "Shocked"
+        ],
+        "correct": 3,
+        "explanation": "To be 'stunned' means to be shocked, often to the point of being unable to react immediately."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The tracks Yan found were 'fresh.' What's an antonym for 'fresh'?",
+        "options": [
+            "New",
+            "Recent",
+            "Old",
+            "Clean"
+        ],
+        "correct": 2,
+        "explanation": "'Fresh' in this context means new or recent. The opposite of fresh tracks would be old tracks."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Yan began an 'eager' chase. What's an antonym for 'eager'?",
+        "options": [
+            "Excited",
+            "Reluctant",
+            "Willing",
+            "Ready"
+        ],
+        "correct": 1,
+        "explanation": "'Eager' means keen or enthusiastic. The opposite would be 'reluctant,' meaning unwilling or unenthusiastic."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The deer's movements were 'graceful.' What's an antonym for 'graceful'?",
+        "options": [
+            "Elegant",
+            "Smooth",
+            "Clumsy",
+            "Agile"
+        ],
+        "correct": 2,
+        "explanation": "'Graceful' means moving in a smooth, elegant way. The opposite is 'clumsy,' which means awkward or uncoordinated."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Yan was 'fascinated' by the deer. What's an antonym for 'fascinated'?",
+        "options": [
+            "Interested",
+            "Captivated",
+            "Bored",
+            "Amazed"
+        ],
+        "correct": 2,
+        "explanation": "To be 'fascinated' means to be very interested or captivated. The opposite is 'bored,' meaning uninterested or indifferent."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Yan was 'glad' the deer got away. What's an antonym for 'glad'?",
+        "options": [
+            "Happy",
+            "Pleased",
+            "Disappointed",
+            "Delighted"
+        ],
+        "correct": 2,
+        "explanation": "Being 'glad' means feeling happy or pleased. The opposite is 'disappointed,' which means feeling sad or unsatisfied with an outcome."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "In the phrase 'fresh ones,' what part of speech is 'fresh'?",
+        "options": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Adverb"
+        ],
+        "correct": 2,
+        "explanation": "'Fresh' describes the noun 'ones' (referring to tracks), making it an adjective."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "In the sentence 'He advanced haphazardly,' what part of speech is 'haphazardly'?",
+        "options": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Adverb"
+        ],
+        "correct": 3,
+        "explanation": "'Haphazardly' describes how he advanced, modifying the verb, making it an adverb."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which word in this sentence is a pronoun: 'He knew what these animals were'?",
+        "options": [
+            "He",
+            "Knew",
+            "What",
+            "Were"
+        ],
+        "correct": 0,
+        "explanation": "'He' is a pronoun, replacing the noun 'Yan' in this sentence."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "In the phrase 'big-eared, greyish animals,' which word is not an adjective?",
+        "options": [
+            "Big-eared",
+            "Greyish",
+            "Animals",
+            "All are adjectives"
+        ],
+        "correct": 2,
+        "explanation": "'Animals' is a noun, while 'big-eared' and 'greyish' are adjectives describing it."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "What type of conjunction is 'and' in this sentence: 'Yan stood gazing intensely until they were out of sight, and it never once occurred to him to shoot'?",
+        "options": [
+            "Subordinating conjunction",
+            "Coordinating conjunction",
+            "Correlative conjunction",
+            "Not a conjunction"
+        ],
+        "correct": 1,
+        "explanation": "'And' is connecting two independent clauses, making it a coordinating conjunction."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "In the phrase 'in front of him,' what part of speech is 'of'?",
+        "options": [
+            "Adjective",
+            "Adverb",
+            "Preposition",
+            "Conjunction"
+        ],
+        "correct": 2,
+        "explanation": "'Of' is a preposition in this phrase, showing the relationship between 'front' and 'him.'"
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "In the sentence 'Their flight was no less magical,' what part of speech is 'magical'?",
+        "options": [
+            "Noun",
+            "Verb",
+            "Adjective",
+            "Adverb"
+        ],
+        "correct": 2,
+        "explanation": "'Magical' is describing the noun 'flight,' making it an adjective."
+    }
+]
